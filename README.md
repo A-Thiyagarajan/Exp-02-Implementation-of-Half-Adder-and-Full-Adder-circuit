@@ -58,7 +58,7 @@ endmodule
 ## Half adder
 ![half adder symbol and table](https://user-images.githubusercontent.com/118707693/211635229-f50fcf6a-4628-430f-802a-4892a532d3f7.png)
 ## Full adder
-![half adder symbol and table](https://user-images.githubusercontent.com/118707693/211635274-d09a0ff7-2022-411c-a16e-01f582417f3f.png)
+![full adder symbol and table](https://user-images.githubusercontent.com/118707693/211637987-62b2ce50-d0e4-4931-9d61-ff2710e43297.png)
 
 # Output:
 ## Half adder
